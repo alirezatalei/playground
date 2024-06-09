@@ -13,7 +13,7 @@ function App() {
     familyName: "talei",
     work: () => "food"
   } 
-  // adam.work()
+  adam.work()
   // function
   function tabee() {
     const varibaleUnderFunction = "alireza"
