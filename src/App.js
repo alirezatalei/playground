@@ -7,6 +7,43 @@ function App() {
 // 2: render kardane oon dar JSX 2*
 // 1* sample:
 // console.log(moteghayer)
+
+// create each of these variables https://www.w3schools.com/js/js_variables.asp
+//variable 
+// number: 
+// var x = 5;
+// var y = 6;
+// var z = x + y;
+// console.log(z)
+// string and sum of strings :> ali + reza = alirez
+// string
+// let x = "nahid";
+// let y = "jafati";
+// let z = x + y;
+// console.log(z)
+//const:
+const price1 = 5;
+const price2 = 6;
+let total = price1 + price2;
+console.log(total);
+
+
+
+
+
+// use operators on both string and numbers https://www.w3schools.com/js/js_operators.asp
+
+
+// create array and use its methods (5)
+//  https://www.w3schools.com/js/js_arrays.asp
+//  https://www.w3schools.com/js/js_array_methods.asp
+
+
+// create object and use its methods (3)
+// https://www.w3schools.com/js/js_objects.asp
+// https://www.w3schools.com/js/js_object_method.asp
+
+
   return (
     <div className="App">
       <header className="App-header">
