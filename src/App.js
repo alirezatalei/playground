@@ -2,37 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  // const
-  var variableNahid = "nahid"
-  const nahidConstant = "nahid is constant"
-  // Array
-  const araye = [1, 2, 3]
-  // object
-  const adam = {
-    name: "alireza",
-    familyName: "talei",
-    work: () => "food"
-  } 
-  adam.work()
-  // function
-  function tabee() {
-    const varibaleUnderFunction = "alireza"
-    // console.log(varibaleUnderFunction)
-    masalan(varibaleUnderFunction);
-    //return same as =>
-    return "sameple of returning in a function"
-  }
-function masalan(input) {
-  console.log(document.getElementById("root"))
-  // console.log(varibaleUnderFunction)
-  // console.log(input)
-
-  const varibaleUnderFunction = "a"
-}
-// ECMA 2015, 2016 => arrow function  
-const tabeeeee = () => console.log('hi')
-  // JSX 
-
+ 
   return (
     <div className="App">
       <header className="App-header">
@@ -50,10 +20,7 @@ const tabeeeee = () => console.log('hi')
           target="_blank" 
           rel="noopener noreferrer"
         >
-          {/* baraye seda zadan function */}
-          {tabee()}
-          {/* baraye seda zadan variable */}
-          {/* {nahidConstant} */}
+         {/* mahale farakhani function ha va moteghayer ha */}
         </a>
       </header>
     </div>
