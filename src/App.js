@@ -15,23 +15,32 @@ function App() {
 // var y = 6;
 // var z = x + y;
 // console.log(z)
+
 // string and sum of strings :> ali + reza = alirez
 // string
 // let x = "nahid";
 // let y = "jafati";
 // let z = x + y;
 // console.log(z)
+
 //const:
-const price1 = 5;
-const price2 = 6;
-let total = price1 + price2;
-console.log(total);
-
-
-
-
+// const price1 = 5;
+// const price2 = 6;
+// let total = price1 + price2;
+// console.log(total);
 
 // use operators on both string and numbers https://www.w3schools.com/js/js_operators.asp
+//assign value
+// let a = 5; 
+// let b = 2;
+// let c = a + b;
+
+//string
+let text1 = "A";
+let text2 = "B";
+let result = text1 > text2;
+console.log(result);
+
 
 
 // create array and use its methods (5)
@@ -60,7 +69,9 @@ console.log(total);
           href="https://reactjs.org"
           target="_blank" 
           rel="noopener noreferrer"
-        >
+        >//string
+        console.log(result)
+
          {/*  mahale farakhani function ha va moteghayer ha dar JSX */}
          {/* 2* sample:  */}
          {/* {moteghayer} */}
